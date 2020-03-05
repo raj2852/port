@@ -340,12 +340,14 @@ padding: 80px 0;
 	overflow-x: hidden;
 }
 .name{
-	float: left;
-	width: 270px;
-}
+	align-content: center;
+	min-width: 100%;
+	max-width: 100%;
+	
 .email{
-	float: right;
-	width: 270px;
+	align-content: center;
+	min-width: 100%;
+	max-width: 100%;
 }
 .message{
 	min-width: 100%;
