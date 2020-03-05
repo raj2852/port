@@ -312,13 +312,14 @@ svg circle:nth-child(2)
 .contact-section{
 text-align: center;
 padding: 80px 0;
-	overflow-x: hidden;
+overflow-y: hidden;
 }
 .inner-width{
 	max-width: 800px;
 	margin: auto;
 	padding: 0 20px;
-	overflow-x: hidden;
+	overflow-y: hidden;
+
 }
 .contact-section h1{
 	font-size: 30px;
@@ -337,17 +338,18 @@ padding: 80px 0;
 	padding: 10px 6px;
     font-size: 24px;
     margin-bottom: 40px;
-	overflow-x: hidden;
+    overflow-y: hidden;
 }
 .name{
 	align-content: center;
 	min-width: 100%;
 	max-width: 100%;
-	
+}
 .email{
 	align-content: center;
 	min-width: 100%;
 	max-width: 100%;
+	
 }
 .message{
 	min-width: 100%;
@@ -385,7 +387,7 @@ padding: 80px 0;
 .sci ul li a{
 	text-decoration: none;
 	display: inline-block;
-	margin: 0 5px;
+	margin: 0 10px;
 
 }
 .sci ul li a:hover img{
