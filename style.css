@@ -362,6 +362,7 @@ overflow-y: hidden;
 	border: 1px solid #70a1ff;
 	padding: 12px 40px;
 	border-radius: 8px;
+	justify-content: center;
 }
 .contact-section button:hover{
 	background: #70a1ff;
