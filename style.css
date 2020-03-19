@@ -311,9 +311,10 @@ svg circle:nth-child(2)
 	stroke: #ffa500;
 }
 
-.vv{
+.vv
+{
+	justify-content: center;
 	
-	align-items: center
 }
 form{
 	margin-top: 30px;
