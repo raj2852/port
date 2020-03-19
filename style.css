@@ -321,7 +321,7 @@ form{
 	transition: all 4s ease-in-out;
 }
 .form-control{
-	width: 1050px;
+	width: cover;
 	background: transparent;
 	border: none;
 	outline: none;
