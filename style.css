@@ -164,7 +164,7 @@ h4{
 	justify-content: space-around;
         display: flex;
 	flex-wrap: wrap;
-	border-left: 5px;
+	border-left: 10px;
 	border-spacing: 10px;
 }
 .zz .band
