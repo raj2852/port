@@ -65,7 +65,15 @@ header ul li a {
     opacity: ;
     align-items: center;
 }
-
+h1{
+    text-align:center;
+}
+h3{
+    text-align:center;
+}
+h5{
+    text-align:center;
+}
 .banner h2 {
     color: #fff;
     font-size: 50px;
