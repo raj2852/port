@@ -316,7 +316,7 @@ svg circle:nth-child(2) {
 } */
 
 .band1 svg circle:nth-child(2) {
-    stroke-dashoffset: calc(440 - (440 * 50) / 100);
+    stroke-dashoffset: calc(440 - (440 * 60) / 100);
     stroke: #ff04f7;
 }
 
@@ -326,12 +326,12 @@ svg circle:nth-child(2) {
 }
 
 .band3 svg circle:nth-child(2) {
-    stroke-dashoffset: calc(440 - (440 * 40) / 100);
+    stroke-dashoffset: calc(440 - (440 * 60) / 100);
     stroke: #ff04f7;
 }
 
 .band4 svg circle:nth-child(2) {
-    stroke-dashoffset: calc(440 - (440 * 40) / 100);
+    stroke-dashoffset: calc(440 - (440 * 50) / 100);
     stroke: #ffa500;
 }
 
