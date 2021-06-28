@@ -390,3 +390,16 @@ header {
 .band {
     margin-top: 10%;
 }
+.img{
+	height: 50px;
+	width: 50px;
+	background-color: #fff;
+	margin: 6px;
+	padding: 5px;
+	box-shadow: rgb(255,255,255);
+}
+.cloud{
+	height: 60px;
+	width: 200px;
+	background-color: #fff;
+}
